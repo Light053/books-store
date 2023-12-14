@@ -1,0 +1,8 @@
+.error-image {}
+
+.error-message {
+	font-size: 48px;
+	color: rgb(127, 127, 127);
+	font-weight: bold;
+	text-align: center;
+}

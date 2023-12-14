@@ -1,0 +1,35 @@
+.orders {
+	padding-top: 50px;
+	width: 100%;
+}
+
+.total {
+	text-align: right;
+	font-size: 28px;
+	font-weight: 700;
+	margin-right: 15px;
+}
+
+.btn {
+	margin-right: 5px;
+}
+
+.number {
+	font-size: 18px;
+}
+
+.price {
+	font-size: 24px;
+	font-weight: 500;
+}
+
+.count {}
+
+th {
+	font-size: 20px;
+}
+
+.title {
+	font-size: 22px;
+	font-weight: 500;
+}

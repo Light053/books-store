@@ -1,0 +1,35 @@
+.empty-basket-message {
+	text-align: center;
+	font-size: 24px;
+	margin: 40px 0;
+	color: #555;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.empty-basket-image {
+	display: block;
+	margin: 0 auto;
+	font-size: 150px
+}
+
+.empty-basket-image img {
+	width: 100%;
+	height: auto;
+	border-radius: 50%;
+	border: 2px solid #ccc;
+}
+
+.remove-btn {
+	font-size: 24px;
+	margin: 6px;
+}
+
+.remove-btn:hover {
+	background-color: red
+}
+
+.cart-count {
+	font-size: 24px;
+	color: rgb(97, 97, 97);
+}
